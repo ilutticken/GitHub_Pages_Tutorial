@@ -160,7 +160,7 @@ Reference for basic  text formatting https://rmarkdown.rstudio.com/lesson-8.html
 
 **Bold** - double asterix before and after the word or phrase
 
-*Italics* - single asterix before and after the word or phrase 
+***Italics*** - single asterix before and after the word or phrase 
 
 ### Paragraph Spacing
 
